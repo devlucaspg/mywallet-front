@@ -1,1 +1,1 @@
-export const URL = "http://localhost:5000";
+export const URL = "https://projeto14-mywallet-api-tda2.onrender.com";
